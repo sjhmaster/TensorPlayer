@@ -7,7 +7,7 @@
 [![Framework](https://img.shields.io/badge/Framework-Qt%206-green.svg)](https://www.qt.io/)
 [![Engine](https://img.shields.io/badge/Render-MDK%20%7C%20RHI%20%7C%20FFmpeg-orange.svg)](https://github.com/wang-bin/mdk-sdk)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)]()
-[![License](https://img.shields.io/badge/License-GPLv3%20%2F%20Commercial-brightgreen.svg)]()
+
 
 [English Overview](#-english-overview) | [简体中文](#-中文简介)
 
