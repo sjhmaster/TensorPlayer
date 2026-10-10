@@ -1,4 +1,4 @@
-# iClovers Tensor Player 🎬⚡
+# iClovers TensorPlayer 🎬⚡
 
 > **Breaking the single-window paradigm: A multimodal media workstation powered by fluid physics layout and tensor-grade computer vision.**  
 > *打破传统播放器的“单一视窗”牢笼 —— 基于流体物理排版与计算级 AI 的多模态多媒体工作台。*
@@ -25,7 +25,7 @@
 
 ## 🇬🇧 English Overview
 
-### 🌟 Why Tensor Player?
+### 🌟 Why TensorPlayer?
 For decades, mainstream media players have adhered to a monolithic paradigm: a black frame, a static seek bar, and the linear playback of a single media file. However, modern workflows demand far more:
 - **Multimodal Comparison**: Synchronizing multi-angle camera feeds alongside text documentation, code, and reference imagery.
 - **Micro-Analysis & Review**: Looping multiple non-contiguous segments inside a single lecture, dance rehearsal, or surveillance feed.
@@ -59,13 +59,13 @@ For decades, mainstream media players have adhered to a monolithic paradigm: a b
 
 ## 🇨🇳 中文简介
 
-### 🌟 为什么选择 Tensor Player？
+### 🌟 为什么选择 TensorPlayer？
 几十年来，主流播放器始终停留在“一个黑框、一条进度条、按部就班播放一个文件”的传统范式。但在实际的创作与技术工作中：
 - **素材对比**：需要一边核对机位画面，一边查阅工程文档和参考图；
 - **片段精读**：想要针对同一个长视频圈选多个不同时间段进行跳跃、反复循环复盘；
 - **视觉分析**：面对恶劣光线或特定通道信息，传统播放器无法在播放中实时拆解与增强像素底层信息。
 
-**iClovers Tensor Player** 颠覆了这一现状——它不仅是一个高性能的跨格式播放器，更是一个融合了**流体网格排版**、**多区间循环引擎**与**工业级视觉计算（Tensor）**的多模态视讯工作台。
+**iClovers TensorPlayer** 颠覆了这一现状——它不仅是一个高性能的跨格式播放器，更是一个融合了**流体网格排版**、**多区间循环引擎**与**工业级视觉计算（Tensor）**的多模态视讯工作台。
 
 ---
 
